@@ -13,6 +13,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DOCUMENTS_DIR = os.path.join(BASE_DIR, "documents")
 CHROMA_DB_DIR = os.path.join(BASE_DIR, "chroma_db")
 
+MANIFEST_PATH = os.path.join(BASE_DIR, "document_manifest.json")
+
+
 # Chunking configuration
 CHUNK_SIZE = 1000
 CHUNK_OVERLAP = 200

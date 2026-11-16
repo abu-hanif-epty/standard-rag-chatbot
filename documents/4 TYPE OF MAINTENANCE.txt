@@ -1,0 +1,101 @@
+=====================================================
+
+1\. Corrective Maintenance: Corrective maintenance means fixing errors and bugs discovered after software delivery. Its nature is bug fixing, and it takes approximately 20% of maintenance effort.
+
+2\. Adaptive Maintenance: Adaptive maintenance means modifying software to work with new environments, technologies, or operating systems. Its nature is environment compatibility, and it takes approximately 25% of maintenance effort.
+
+3\. Perfective Maintenance: Perfective maintenance means improving software performance, usability, or adding new features according to user requirements. Its nature is software improvement, and it takes approximately 50% of maintenance effort.
+
+4\. Preventive Maintenance: Preventive maintenance means modifying software to prevent future problems and improve maintainability. Its nature is future problem prevention, and it takes approximately 5% of maintenance effort.
+
+Note: These percentages are approximate and may vary depending on the software and organization.
+
+============================================================================================	
+
+
+
+
+Software Maintenance – 4 Types
+Software Maintenance:  means modifying or updating software after it has been delivered to users.
+
+We maintain software to fix errors, support new environments, add new features, and prevent future problems.
+
+There are 4 types of Software Maintenance:
+1. Corrective Maintenance
+Definition: Fixing errors or bugs discovered after the software has been delivered to users.
+
+Simple English: When software does not work correctly, we fix it.
+
+Scenario:
+
+A university develops a Student Management System. After students start using it, they discover that the system calculates GPA incorrectly.
+
+Solution: Developers find and fix the GPA calculation bug.
+Corrective = Fix existing errors
+2. Adaptive Maintenance
+Definition: Modifying software to work with a new environment, technology, operating system, or requirements caused by environmental changes.
+
+Simple English: Changing software to make it compatible with a new environment.
+
+Scenario:
+
+A banking application works perfectly on Windows 10. However, the bank upgrades its computers to Windows 11, and the application stops working properly.
+
+Solution: Developers modify the application to support Windows 11.
+Adaptive = Adjust to environmental changes
+3. Perfective Maintenance
+Definition: Modifying software to improve performance, usability, or add new features according to user requirements.
+
+Simple English: Improving existing software or adding new features.
+
+Scenario:
+
+A university Student Management System works correctly, but students request a new feature to download their exam results as PDF files.
+
+Solution: Developers add the PDF download feature.
+Perfective = Improve or add features
+4. Preventive Maintenance
+Definition: Modifying software to prevent future problems and improve its maintainability and reliability.
+
+Simple English: Making changes now to avoid problems in the future.
+
+Scenario:
+
+A company's software works correctly, but developers discover that its code is poorly organized and difficult to maintain. This may cause problems during future updates.
+
+Solution: Developers refactor the code, remove unnecessary code, and improve the software structure.
+
+
+## Scenario-Based Question: Software Maintenance (10 Marks)
+
+Question: Read the following situations carefully. For each situation, identify:
+
+1. Situation: What problem or requirement occurred?
+2. Maintenance Work: What action did the developers perform?
+3. Result: What was achieved after the maintenance?
+
+A university uses a Student Management System. After two years, the following situations occur:
+
+Scenario 1: Students complain that the system displays incorrect GPA results. Developers investigate the problem and correct the calculation formula. As a result, students receive accurate GPA results.
+
+Scenario 2: The university changes its operating system from Windows 10 to Windows 11. Developers modify the existing software to support the new operating system. As a result, the system works properly in the new environment.
+
+Scenario 3: Students request an online payment feature in the university system. Developers add the payment feature to make the system more useful. As a result, students can pay their tuition fees online.
+
+Scenario 4: Developers notice that the system has poorly organized code that may create problems during future updates. They refactor the code and remove unnecessary parts. As a result, the system becomes easier to maintain and less likely to face future problems.
+
+## Solution
+
+| Scenario | Situation                    | Maintenance Work                    | Result                    | Type       |
+| -------- | ---------------------------- | ----------------------------------- | ------------------------- | ---------- |
+| 1        | Incorrect GPA calculation    | Fixed calculation formula           | Accurate GPA results      | Corrective |
+| 2        | New operating system         | Modified software for compatibility | Works on Windows 11       | Adaptive   |
+| 3        | Students need online payment | Added payment feature               | Online fee payment        | Perfective |
+| 4        | Poorly organized code        | Refactored code                     | Easier future maintenance | Preventive |
+
+Exam tip: Always identify the problem first, then the developers' action, and finally the result. This makes it easier to identify the correct maintenance type.
+
+What is Code Refactoring?
+Code Refactoring means improving the internal structure of existing code without changing its external behavior or functionality.
+
+Simple English: Making code cleaner, simpler, and easier to maintain without changing what the program does.
