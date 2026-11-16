@@ -1,0 +1,175 @@
+
+1.... Requirement Analysis in SDLC
+Requirement Analysis is the second phase of the Software Development Life Cycle (SDLC), where developers understand and identify what the customer needs from the software.
+
+In this phase, the development team collects, analyzes, and documents the customer's requirements before starting the design and development process.
+Main Activities of Requirement Analysis
+1. Requirement Gathering: Collect information from customers through interviews, surveys, and meetings.
+2. Requirement Analysis: Analyze the collected requirements and identify problems, conflicts, or missing information.
+3. Requirement Specification: Document all requirements in an SRS (Software Requirement Specification).
+4. Requirement Validation: Check whether the documented requirements are correct, complete, and meet customer expectations.
+
+
+2... System Design in SDLC
+System Design is the phase of SDLC where developers decide how the software system will be built based on the requirements collected during the Requirement Analysis phase.
+It defines the system's architecture, components, database, user interface, and how different parts will communicate.
+
+Main Activities of System Design
+1. System Architecture: Decide the overall structure of the system (Monolithic, Microservices, Client-Server).
+2. Database Design: Design database tables, relationships, and data storage.
+3. UI/UX Design: Design how users will interact with the software.
+4. Module Design: Divide the system into smaller modules or components.
+5. Technology Selection: Choose programming languages, frameworks, and tools.
+
+3... 
+
+Code Implementation in SDLC
+Code Implementation is the phase of SDLC where developers convert the system design into actual working software by writing code using programming languages and frameworks.
+
+In this phase, developers develop different modules according to the design specifications.
+
+
+
+4...Testing in SDLC
+Testing is the phase of SDLC where developers and testers check the software to identify bugs, errors, and defects and ensure that the software meets the specified requirements.
+
+In this phase, the software is tested to verify that all features work correctly and the system performs as expected.
+
+
+6...
+Deployment in SDLC
+Deployment is the phase of SDLC where the tested and approved software is released and installed in the real-world environment so that actual users can start using it.
+
+In this phase, the development team makes the software available to customers or end users.
+
+Main Activities of Deployment
+1. Environment Setup: Prepare the production server, database, and required software.
+2. Installation: Install or configure the software in the production environment.               
+3. Configuration: Set up environment variables, database connections, and security settings.
+4. Data Migration: Transfer existing data into the new system if required.
+5. Release: Make the software available to real users.
+6. User Training: Teach users how to operate the software.
+
+
+6...
+Maintenance in SDLC
+Software Maintenance is the final phase of SDLC where developers modify, update, and improve software after its deployment to fix errors, adapt to changes, and improve performance.
+
+In this phase, developers ensure that the software continues to work properly and meets users' changing needs.
+
+
+
+============= MODELS ==========
+--------1-----
+
+Waterfall Model (SDLC)
+The Waterfall Model is a traditional SDLC model where software development is completed step by step in a fixed sequence. Each phase must be completed before moving to the next phase
+
+Important Characteristics
+- Linear and sequential development.
+- Each phase must be completed before the next phase.
+- Requirements are defined clearly at the beginning.
+- Changes are difficult and expensive in later stages.
+- Heavy documentation is maintained.
+- Testing usually happens after implementation.
+- Customer involvement is limited after the requirement phase.
+
+---------  2 --------
+
+Iterative Model (SDLC)
+1. Main Concept
+The Iterative Model is an SDLC model where software is developed through repeated cycles (iterations). Developers first create a basic version of the software and then improve it repeatedly based on feedback and testing.
+
+Instead of developing the complete software at once, the system is improved step by step in each iteration.
+
+Important Characteristics
+- Development happens through repeated cycles.
+- Starts with a basic version of the software.
+- Each iteration improves the previous version.
+- Requirements can change during development.
+- Testing and feedback happen in every iteration.
+- Working software is available early.
+- Continuous improvement is the main focus.
+
+Incremental Model (SDLC)
+1. Main Concept
+The Incremental Model is an SDLC model where software is developed and delivered in small functional parts called increments.
+
+Each increment adds new features to the existing system until the complete software is developed.
+
+Instead of delivering the whole software at once, developers deliver it gradually.
+
+Important Characteristics
+- Software is developed in small parts.
+- Each increment adds new functionality.
+- Every increment delivers a working version.
+- Important features can be delivered first.
+- Testing is performed for each increment.
+- Customer feedback can be included.
+- The complete system is built gradually.
+
+
+V-Model (V-Shaped Model) – SDLC
+1. Main Concept
+The V-Model (Verification and Validation Model) is an SDLC model where each development phase has a corresponding testing phase.
+
+It follows a V-shaped structure. The left side focuses on planning and development, while the right side focuses on testing.
+4. Important Characteristics
+- V-shaped development structure.
+- Every development phase has a corresponding testing phase.
+- Testing is planned early.
+- Verification and validation are important.
+- Requirements should be clearly defined.
+- Changes are difficult in later stages.
+- Early testing planning helps identify defects.
+
+
+Evolutionary Model (SDLC)
+1. Main Concept
+The Evolutionary Model is an SDLC model where software is developed gradually and continuously evolves based on customer feedback and changing requirements.
+
+Developers start with an initial version of the software and improve it over time until it becomes a complete system.
+
+Main concept: Software evolves through continuous development, feedback, and improvement.'
+
+3. Important Characteristics
+- Software develops gradually.
+- Requirements can change during development.
+- Continuous customer feedback is important.
+- Each version improves the previous version.
+- Supports uncertain or changing requirements.
+- Development happens through repeated cycles.
+- The final system evolves over time.
+
+
+===============================================
+
++-------------------+-------------------------------------------+-------------------------------------------+
+| Iterative         | Incremental                               |
++-------------------+-------------------------------------------+-------------------------------------------+
+| Meaning           | Improves existing features                | Adds new features                         |
+| Focus             | Refinement and improvement                | Functionality growth                      |
+| Goal              | Make the product better                   | Make the product bigger                   |
+| Example           | Improve login security                    | Add login, payment, order tracking        |
++-------------------+-------------------------------------------+-------------------------------------------+
+
+
++-------------------+-------------------------------------------+-------------------------------------------+
+| Waterfall         | V-Model                                   |
++-------------------+-------------------------------------------+-------------------------------------------+
+| Testing           | Mainly after development                  | Planned from the beginning                |
+| Process           | Sequential phases                         | Matching testing phase for each dev phase |
+| Focus             | Sequential development                    | Verification and Validation               |
+| Error Detection   | Usually later                             | Usually earlier                           |
++-------------------+-------------------------------------------+-------------------------------------------+
+
+
++-------------------+-------------------------------------------+-------------------------------------------+
+| Evolutionary      | Agile                                     |
++-------------------+-------------------------------------------+-------------------------------------------+
+| Meaning           | Software evolves through feedback         | Software developed in short sprints       |
+| Requirements      | Change over time                          | Adapt frequently                          |
+| Type              | Broad development approach                | Specific methodology/framework family     |
+| Focus             | Continuous evolution                      | Collaboration & frequent delivery         |
+| Example           | Gradually refine software with feedback   | Deliver working software every sprint     |
++-------------------+-------------------------------------------+-------------------------------------------+

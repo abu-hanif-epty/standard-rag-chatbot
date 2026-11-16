@@ -1,0 +1,65 @@
+# Microsoft – Company Information
+
+## 1. Introduction
+Microsoft is an American technology company founded in 1975 by Bill Gates and Paul Allen. Its headquarters is located in Redmond, Washington, USA.
+
+Microsoft develops software, hardware, cloud computing platforms, and artificial intelligence technologies.
+
+## 2. Main Products and Services
+
+### Windows
+Windows is an operating system developed by Microsoft. It is widely used on personal computers and business computers.
+
+### Microsoft Office
+Microsoft Office includes productivity applications such as Word, Excel, and PowerPoint.
+
+- Word: Used for creating and editing documents.
+- Excel: Used for spreadsheets, calculations, and data analysis.
+- PowerPoint: Used for creating presentations.
+
+### Microsoft Azure
+Azure is Microsoft's cloud computing platform. It provides services for hosting applications, managing databases, storing data, and developing AI applications.
+
+### Microsoft Teams
+Microsoft Teams is a communication and collaboration platform. Users can participate in meetings, chat, share files, and work together.
+
+### GitHub
+GitHub is a platform used by developers to store, manage, and collaborate on software projects using Git.
+
+### Microsoft Copilot
+Microsoft Copilot is an AI assistant integrated into various Microsoft products and services. It helps users with tasks such as writing, research, summarization, and productivity.
+
+## 3. Business Model
+Microsoft earns revenue from different sources.
+
+- Software licensing: Selling software licenses.
+- Cloud services: Providing Azure cloud infrastructure.
+- Subscriptions: Microsoft 365 and other subscription services.
+- Gaming: Xbox hardware, games, and related services.
+- Enterprise solutions: Software and technology services for businesses.
+
+## 4. Artificial Intelligence
+Microsoft invests in artificial intelligence and integrates AI into its products.
+
+Microsoft provides AI development tools through Azure AI services.
+
+Developers can use these services to build intelligent applications, chatbots, and automation systems.
+
+Microsoft also offers Copilot products to improve productivity.
+
+## 5. Strengths
+- Strong presence in business software.
+- Popular operating system.
+- Large cloud computing infrastructure.
+- Strong developer ecosystem through GitHub.
+- Investment in AI technologies.
+
+## 6. Challenges
+- Competition in cloud computing.
+- Cybersecurity threats.
+- Software security and privacy concerns.
+- Competition in operating systems and AI.
+- Regulatory challenges.
+
+## 7. Summary
+Microsoft is a leading technology company providing operating systems, productivity software, cloud computing, gaming, developer tools, and artificial intelligence solutions.

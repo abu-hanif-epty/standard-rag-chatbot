@@ -1,0 +1,64 @@
+# Google – Company Information
+
+## 1. Introduction
+Google is a technology company founded in 1998 by Larry Page and Sergey Brin. Its headquarters is located in Mountain View, California, USA.
+
+Google started as a search engine but later expanded into many areas of technology, including cloud computing, artificial intelligence, mobile operating systems, and online advertising.
+
+Google is a subsidiary of Alphabet Inc.
+
+## 2. Main Products and Services
+
+### Google Search
+Google Search is a search engine that helps users find information on the internet. Users can search for websites, images, videos, news, and other information.
+
+### Gmail
+Gmail is an email service that allows users to send, receive, and organize emails. It is widely used by individuals, students, and businesses.
+
+### Google Maps
+Google Maps provides digital maps, navigation, traffic information, and location-based services.
+
+### Android
+Android is a mobile operating system developed by Google. It is used by many smartphone manufacturers around the world.
+
+### Google Drive
+Google Drive is a cloud storage service. Users can store files, share documents, and access their data from different devices.
+
+### Google Cloud
+Google Cloud provides cloud computing services, including data storage, computing resources, databases, and AI tools.
+
+### Gemini
+Gemini is Google's family of artificial intelligence models. It can understand and generate text and work with other types of information.
+
+## 3. Business Model
+Google generates revenue through several business activities.
+
+- Advertising: Businesses pay Google to display advertisements.
+- Cloud Computing: Organizations pay for Google Cloud services.
+- Subscriptions: Google offers paid services and subscriptions.
+- Hardware: Google sells products such as Pixel smartphones and Nest devices.
+
+Advertising is one of Google's major sources of revenue.
+
+## 4. Artificial Intelligence
+Google invests heavily in artificial intelligence research and development.
+
+Its AI technologies are used in search, translation, image recognition, productivity tools, and conversational AI.
+
+Google DeepMind is an AI research organization working on advanced artificial intelligence technologies.
+
+## 5. Strengths
+- Strong global brand recognition.
+- Large internet search market presence.
+- Extensive cloud infrastructure.
+- Advanced AI research.
+- A large ecosystem of digital products.
+
+## 6. Challenges
+- Privacy and data protection concerns.
+- Competition in search and AI.
+- Government regulations.
+- Dependence on advertising revenue.
+
+## 7. Summary
+Google is one of the world's major technology companies. It provides internet services, cloud computing, mobile software, and artificial intelligence technologies.
