@@ -1,0 +1,27 @@
+{
+    "08e5a106037348d1c3cd562b4e1d7f74142a55f6a406ba14eab24393f2e058d9": {
+        "filename": "google.txt",
+        "source": "C:\\Users\\ThinkPad\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\Desktop\\python_for_ai\\RAG\\standard-rag-chatbot\\documents\\google.txt"
+    },
+    "d52cd56753d1730ab9b38aefb820c7cb4920489065a429b12c5dcc46598b2e1c": {
+        "filename": "microsoft.txt",
+        "source": "C:\\Users\\ThinkPad\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\Desktop\\python_for_ai\\RAG\\standard-rag-chatbot\\documents\\microsoft.txt"
+    },
+    "80335221b0df989f872fc1609f51b264692bbd4dcb14b46fba161a20ced37cdb": {
+        "filename": "Modern_AI_Engineering_LLM_RAG_Agents_Roadmap.pdf",
+        "source": "C:\\Users\\ThinkPad\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\Desktop\\python_for_ai\\RAG\\standard-rag-chatbot\\documents\\Modern_AI_Engineering_LLM_RAG_Agents_Roadmap.pdf"
+    },
+    "c80fc2778d443ba3939a51b5cd6577e0d6b1fb872c296d8c3788333519fc53f8": {
+        "filename": "sdlc.txt",
+        "source": "C:\\Users\\ThinkPad\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\Desktop\\python_for_ai\\RAG\\standard-rag-chatbot\\documents\\sdlc.txt"
+    },
+    "5984b6890061594f0c289c3498bb8bb372e9ca9511d0f24e1b08e31b9c68d510": {
+        "filename": "tesla.txt",
+        "source": "C:\\Users\\ThinkPad\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\Desktop\\python_for_ai\\RAG\\standard-rag-chatbot\\documents\\tesla.txt"
+    },
+    "0861e3c6f00c6de88e13bceb07daf356edec3e8f0d4949d9eabb918e0366d400": {
+        "filename": "4 TYPE OF MAINTENANCE.txt",
+        "source": "C:\\Users\\ThinkPad\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\Desktop\\python_for_ai\\RAG\\standard-rag-chatbot\\documents\\4 TYPE OF MAINTENANCE.txt",
+        "chunks": 8
+    }
+}
