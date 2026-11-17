@@ -4,4 +4,3 @@ __pycache__/
 *.pyc
 chroma_db/
 
-document_manifest.json
